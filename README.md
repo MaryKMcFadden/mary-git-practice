@@ -1,4 +1,7 @@
-first git project
+# first git project
 
--Mary McFadden
--Due Feb. 3
+- Mary McFadden
+- Due Feb. 3
+
+ya mom 
+
