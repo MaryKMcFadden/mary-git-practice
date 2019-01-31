@@ -1,3 +1,3 @@
-"You take 100% of the shots you don't take"
+"You miss 100% of the shots you don't take"
 - Wayne Gretzky 
 - Michael Scott
